@@ -1,5 +1,5 @@
 //login.html Login
-
+/*
 const lusername = "taylor";
 const lpassword = "123";
 const loginBtn = document.getElementById("loginBtn");
@@ -40,3 +40,4 @@ loginBtn.addEventListener("click", () => {
     sessionStorage.removeItem("loggedIn");
     window.location.href = "login.html";
   });
+*/
